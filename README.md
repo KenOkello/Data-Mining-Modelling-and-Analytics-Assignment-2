@@ -25,4 +25,4 @@ Install the required libraries using:
 `pip install -r requirements.txt`
 
 ## Author
-Ken Okello
+Kenneth Okello - B35966 - S25M19050
