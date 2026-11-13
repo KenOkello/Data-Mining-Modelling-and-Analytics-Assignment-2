@@ -1,0 +1,12 @@
+# Assignment 2: Data Mining, Modelling and Analytics
+# Projects 1 (Wholesale Customer Segmentation) and 2 (Credit Card Fraud Detection)
+# Install with: python -m pip install -r requirements.txt
+
+numpy>=1.26,<3
+pandas>=2.2,<3
+scipy>=1.13,<2
+scikit-learn>=1.6,<2
+matplotlib>=3.9,<4
+seaborn>=0.13,<1
+notebook>=7,<9
+ipykernel>=6.29,<8
